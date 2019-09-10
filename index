@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-a">
+<title>Hi, my name is Gina Briggs.</title>
+</head>
+
+<body>
+    <div class="container">
+        <header><h1>One of my favorite hobbies are <strong>sleeping.</strong></h1></header>
+        <nav></nav>
+        <section>
+        <p>
+            I love <b>sleeping</b> because I always feel well rested no matter how many hours or minutes I spend sleeping. <br> If I'm in a negative or poor mood, sleeping always pushes those negative emotions away and replaces them with positive ones! <aside>I strongly believe sleep is a gift.</aside> 
+            <img src="assets/images/man-sleeping.jpg" width="500px">
+        </p>
+        <p>&#9829;</p>
+        <header><h2>Another favorite hobby of mine is drawing!<h2></header>
+        <section>
+        <p>
+            I enjoy <b>drawing</b> because it allows me to freely connect with my <i>emotions</i> due to the fact I'm poor at verbally communicating them. <br> It allows me to vent out any emotions I have, positive or negative, in order to create something that doesn't already exist! 
+            <img src="assets/images/benefits-of-sketching-hero.jpg" width="500px">
+            </p></section>
+        
+        <p>&#9829;</p>
+        <header><h3>Lastly, I love <em>watching</em> cartoons on my free time. The older cartoons of cartoon network to be specific.</h3></header>
+        <section>
+        <p>
+            A lot of my childhood was spent watching older <b>cartoons</b> such as Courage the Cowardly Dog, Teen Titans, and all the good classics.<br> It's also where I got a lot of my drawing inspiration from. 
+            <img src="assets/images/cartoons-year-born-1525733963.jpg" width="500px">
+            </p></section>
+        <p>&#9829;</p>
+            <section>
+            <article></article>
+            </section>
+            <article></article>
+        <footer></footer>
+            </h2>
+            </header>
+    </div>
+    </body>
+</html>
